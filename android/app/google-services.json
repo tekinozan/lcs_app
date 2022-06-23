@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286698204277",
+    "project_id": "lcsdeneme",
+    "storage_bucket": "lcsdeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286698204277:android:7ef3b82bf7fa188ca41c3c",
+        "android_client_info": {
+          "package_name": "com.example.lcs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286698204277-ddaruiigao3o19oeo29ugamm0i32ccic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lcs_app",
+            "certificate_hash": "a577152b1f2c78bd6d285e13a590fd663edcabbd"
+          }
+        },
+        {
+          "client_id": "286698204277-kgqa4dg95k82q6fm3v6si1tbdr5elusu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUXVR8rntFLphg9yo-qkT6i_xeXLWV-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286698204277-kgqa4dg95k82q6fm3v6si1tbdr5elusu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
