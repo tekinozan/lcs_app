@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
   }
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Reward App',
+      title: '',
       debugShowCheckedModeBanner: false,
       home: const RewardWidget(),
     );
